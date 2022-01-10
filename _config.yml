@@ -5,16 +5,16 @@ description: >-
   just a Wonny Dev TIL Blog ( 워니의 개발 기록공간 ) 
 lang: en-US
 timezone:  Asia/Seoul
-repo: https://papa1945.github.io # site repo [optional]
+repo: # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
-discus-identifier: papa1945 # replace with your disqus shortname
+discus-identifier: # replace with your disqus shortname
 
 author:
   name: Wonny
   bio: just a minimalist, personal blog
   userpicture: 
   username: # general username
-  github: papa1945
+  github: 
   twitter: # twitter username
   email: papa1945@gmail.com # email adress
 

@@ -4,10 +4,10 @@ greetings: Hi 🧗‍♂️
 description: >-
   just a Wonny Dev TIL Blog ( 워니의 개발 기록공간 ) 
 lang: en-US
-timezone:  Europe/Rome
+timezone:  Asia/Seoul
 repo: https://papa1945.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
-discus-identifier: powex # replace with your disqus shortname
+discus-identifier: papa1945 # replace with your disqus shortname
 
 author:
   name: Wonny
@@ -23,7 +23,7 @@ googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;
 
 # URL settings
 url: "https://papa1945.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/papa1945" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+baseurl: # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local

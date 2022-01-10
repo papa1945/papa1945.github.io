@@ -1,8 +1,8 @@
-site: Gesko
-title: Gesko
-greetings: Hi 👋
+site: Wonny Blog
+title: Wonny Devlog
+greetings: Hi 🧗‍♂️ 
 description: >-
-  just a minimalist, personal blog
+  just a Wonny Dev TIL Blog ( 워니의 개발 기록공간 ) 
 lang: en-US
 timezone:  Europe/Rome
 repo: https://papa1945.github.io # site repo [optional]
@@ -10,13 +10,13 @@ data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
 
 author:
-  name: gesko
+  name: Wonny
   bio: just a minimalist, personal blog
   userpicture: 
   username: # general username
-  github: # github username
+  github: papa1945
   twitter: # twitter username
-  email: your-email@email.com # email adress
+  email: papa1945@gmail.com # email adress
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900

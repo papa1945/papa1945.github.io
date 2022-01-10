@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Wonny Devlog",
-    "home_page_url": "https://papa1945.github.io/papa1945/",
-    "feed_url": "https://papa1945.github.io/papa1945/feed.json",
+    "home_page_url": "https://papa1945.github.io/",
+    "feed_url": "https://papa1945.github.io/feed.json",
     "description": "just a Wonny Dev TIL Blog ( 워니의 개발 기록공간 ) ",
-    "icon": "https://papa1945.github.io/papa1945/apple-touch-icon.png",
-    "favicon": "https://papa1945.github.io/papa1945/favicon.ico",
+    "icon": "https://papa1945.github.io/apple-touch-icon.png",
+    "favicon": "https://papa1945.github.io/favicon.ico",
     "expired": false,
     
     "author":  {
@@ -17,19 +17,19 @@
 "items": [
     
         {
-            "id": "https://papa1945.github.io/papa1945/2022/01/10/%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%A1%9D-%EA%B3%B5%EA%B0%84%EC%9D%98-%EC%8B%9C%EC%9E%91",
+            "id": "https://papa1945.github.io/2022/01/10/%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%A1%9D-%EA%B3%B5%EA%B0%84%EC%9D%98-%EC%8B%9C%EC%9E%91",
             "title": "개발 기록 공간의 시작",
             "summary": null,
             "content_text": "    print(\"Hello, World!\")python 기반의 DevOps 및 AI 개발 기록을 남기는 공간의 시작을 기록해 본다.",
             "content_html": "<div class=\"language-python highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>    <span class=\"k\">print</span><span class=\"p\">(</span><span class=\"s\">\"Hello, World!\"</span><span class=\"p\">)</span></code></pre></div></div><p>python 기반의 DevOps 및 AI 개발 기록을 남기는 공간의 시작을 기록해 본다.</p>",
-            "url": "https://papa1945.github.io/papa1945/2022/01/10/%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%A1%9D-%EA%B3%B5%EA%B0%84%EC%9D%98-%EC%8B%9C%EC%9E%91",
+            "url": "https://papa1945.github.io/2022/01/10/%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%A1%9D-%EA%B3%B5%EA%B0%84%EC%9D%98-%EC%8B%9C%EC%9E%91",
             
             
             
             
             
-            "date_published": "2022-01-10T00:00:00+01:00",
-            "date_modified": "2022-01-10T00:00:00+01:00",
+            "date_published": "2022-01-10T00:00:00+09:00",
+            "date_modified": "2022-01-10T00:00:00+09:00",
             
                 "author":  {
                 "name": "Wonny",

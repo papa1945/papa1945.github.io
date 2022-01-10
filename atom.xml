@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Wonny Devlog</title>
- <link href="https://papa1945.github.io/papa1945/atom.xml" rel="self"/>
- <link href="https://papa1945.github.io/papa1945/"/>
- <updated>2022-01-10T15:52:23+01:00</updated>
+ <link href="https://papa1945.github.io/atom.xml" rel="self"/>
+ <link href="https://papa1945.github.io/"/>
+ <updated>2022-01-11T00:00:55+09:00</updated>
  <id>https://papa1945.github.io</id>
  <author>
    <name>Wonny</name>
@@ -14,8 +14,8 @@
  
  <entry>
    <title>개발 기록 공간의 시작</title>
-   <link href="https://papa1945.github.io/papa1945/2022/01/10/%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%A1%9D-%EA%B3%B5%EA%B0%84%EC%9D%98-%EC%8B%9C%EC%9E%91"/>
-   <updated>2022-01-10T00:00:00+01:00</updated>
+   <link href="https://papa1945.github.io/2022/01/10/%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%A1%9D-%EA%B3%B5%EA%B0%84%EC%9D%98-%EC%8B%9C%EC%9E%91"/>
+   <updated>2022-01-10T00:00:00+09:00</updated>
    <id>https://papa1945.github.io/2022/01/10/개발-기록-공간의-시작</id>
    <content type="html">&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello, World!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;

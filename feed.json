@@ -38,6 +38,30 @@
                 }
                 
             
+        },
+    
+        {
+            "id": "https://papa1945.github.io/2022/01/09/about",
+            "title": "About",
+            "summary": null,
+            "content_text": "  Name: Wonny (워니)  mail : papa1945@gmail.com  Work Experience :          2021~ : Power Plant DX Solution Develop Team      2014~ : CFBC Boiler Operation        소개 :          파이썬 언어를 주력으로 발전소 현업에 어려운 점을 해결하는 AI / IT 솔루션 개발 및 적용 검토를 진행 하고 있습니다.      파이썬 언어를 사랑하고 AI와 Web App 개발에 관심이 많습니다.      업무를 진행하면서 학습한 내용을 남기고 재미있게 진행하는 개인 프로젝트를 공유하는 공간 입니다. 감사합니다.       programming language = [Python,java Script,html,css]library used = [    python : pandas,numpy,sklearn,keras,Tenserfolow,Streamlit,Django        javascript : Vue.js     ]  Project:          LNG power plant maxium load predict (xgboost)      LNG power plant Ammonia Requirement predict (xgboost + streamlit)      CFBC Boiler Tube Leak Detection (Aroundo + Rule)      ",
+            "content_html": "<hr /><ul>  <li>Name: Wonny (워니)</li>  <li>mail : papa1945@gmail.com</li>  <li>Work Experience :    <ul>      <li>2021~ : Power Plant DX Solution Develop Team</li>      <li>2014~ : CFBC Boiler Operation</li>    </ul>  </li>  <li>소개 :    <ul>      <li>파이썬 언어를 주력으로 발전소 현업에 어려운 점을 해결하는 AI / IT 솔루션 개발 및 적용 검토를 진행 하고 있습니다.</li>      <li>파이썬 언어를 사랑하고 AI와 Web App 개발에 관심이 많습니다.</li>      <li>업무를 진행하면서 학습한 내용을 남기고 재미있게 진행하는 개인 프로젝트를 공유하는 공간 입니다. 감사합니다.</li>    </ul>  </li></ul><div class=\"language-python highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> <span class=\"n\">programming</span> <span class=\"n\">language</span> <span class=\"o\">=</span> <span class=\"p\">[</span><span class=\"n\">Python</span><span class=\"p\">,</span><span class=\"n\">java</span> <span class=\"n\">Script</span><span class=\"p\">,</span><span class=\"n\">html</span><span class=\"p\">,</span><span class=\"n\">css</span><span class=\"p\">]</span><span class=\"n\">library</span> <span class=\"n\">used</span> <span class=\"o\">=</span> <span class=\"p\">[</span>    <span class=\"n\">python</span> <span class=\"p\">:</span> <span class=\"n\">pandas</span><span class=\"p\">,</span><span class=\"n\">numpy</span><span class=\"p\">,</span><span class=\"n\">sklearn</span><span class=\"p\">,</span><span class=\"n\">keras</span><span class=\"p\">,</span><span class=\"n\">Tenserfolow</span><span class=\"p\">,</span><span class=\"n\">Streamlit</span><span class=\"p\">,</span><span class=\"n\">Django</span>        <span class=\"n\">javascript</span> <span class=\"p\">:</span> <span class=\"n\">Vue</span><span class=\"p\">.</span><span class=\"n\">js</span>     <span class=\"p\">]</span></code></pre></div></div><ul>  <li>Project:    <ul>      <li>LNG power plant maxium load predict (xgboost)</li>      <li>LNG power plant Ammonia Requirement predict (xgboost + streamlit)</li>      <li>CFBC Boiler Tube Leak Detection (Aroundo + Rule)</li>    </ul>  </li></ul>",
+            "url": "https://papa1945.github.io/2022/01/09/about",
+            
+            
+            
+            
+            
+            "date_published": "2022-01-09T00:00:00+09:00",
+            "date_modified": "2022-01-09T00:00:00+09:00",
+            
+                "author":  {
+                "name": "Wonny",
+                "url": null,
+                "avatar": null
+                }
+                
+            
         }
     
     ]

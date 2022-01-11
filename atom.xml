@@ -4,7 +4,7 @@
  <title>Wonny Devlog</title>
  <link href="https://papa1945.github.io/atom.xml" rel="self"/>
  <link href="https://papa1945.github.io/"/>
- <updated>2022-01-11T00:08:58+09:00</updated>
+ <updated>2022-01-11T23:02:25+09:00</updated>
  <id>https://papa1945.github.io</id>
  <author>
    <name>Wonny</name>
@@ -21,6 +21,56 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;python 기반의 DevOps 및 AI 개발 기록을 남기는 공간의 시작을 기록해 본다.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>About</title>
+   <link href="https://papa1945.github.io/2022/01/09/about"/>
+   <updated>2022-01-09T00:00:00+09:00</updated>
+   <id>https://papa1945.github.io/2022/01/09/about</id>
+   <content type="html">&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Name: Wonny (워니)&lt;/li&gt;
+  &lt;li&gt;mail : papa1945@gmail.com&lt;/li&gt;
+  &lt;li&gt;Work Experience :
+    &lt;ul&gt;
+      &lt;li&gt;2021~ : Power Plant DX Solution Develop Team&lt;/li&gt;
+      &lt;li&gt;2014~ : CFBC Boiler Operation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;소개 :
+    &lt;ul&gt;
+      &lt;li&gt;파이썬 언어를 주력으로 발전소 현업에 어려운 점을 해결하는 AI / IT 솔루션 개발 및 적용 검토를 진행 하고 있습니다.&lt;/li&gt;
+      &lt;li&gt;파이썬 언어를 사랑하고 AI와 Web App 개발에 관심이 많습니다.&lt;/li&gt;
+      &lt;li&gt;업무를 진행하면서 학습한 내용을 남기고 재미있게 진행하는 개인 프로젝트를 공유하는 공간 입니다. 감사합니다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; 
+&lt;span class=&quot;n&quot;&gt;programming&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;language&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Python&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;java&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Script&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;html&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;css&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;library&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;used&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;python&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pandas&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numpy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sklearn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;keras&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Tenserfolow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Streamlit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Django&lt;/span&gt;
+    
+    &lt;span class=&quot;n&quot;&gt;javascript&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Vue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;js&lt;/span&gt; 
+
+
+    &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Project:
+    &lt;ul&gt;
+      &lt;li&gt;LNG power plant maxium load predict (xgboost)&lt;/li&gt;
+      &lt;li&gt;LNG power plant Ammonia Requirement predict (xgboost + streamlit)&lt;/li&gt;
+      &lt;li&gt;CFBC Boiler Tube Leak Detection (Aroundo + Rule)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 </content>
  </entry>
  

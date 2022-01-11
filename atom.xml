@@ -4,7 +4,7 @@
  <title>Wonny Devlog</title>
  <link href="https://papa1945.github.io/atom.xml" rel="self"/>
  <link href="https://papa1945.github.io/"/>
- <updated>2022-01-11T23:05:04+09:00</updated>
+ <updated>2022-01-11T23:10:08+09:00</updated>
  <id>https://papa1945.github.io</id>
  <author>
    <name>Wonny</name>
@@ -30,6 +30,7 @@
    <updated>2022-01-09T00:00:00+09:00</updated>
    <id>https://papa1945.github.io/2022/01/09/about</id>
    <content type="html">&lt;hr /&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Name: Wonny (워니)&lt;/li&gt;
   &lt;li&gt;mail : papa1945@gmail.com&lt;/li&gt;
@@ -46,22 +47,23 @@
       &lt;li&gt;업무를 진행하면서 학습한 내용을 남기고 재미있게 진행하는 개인 프로젝트를 공유하는 공간 입니다. 감사합니다.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; 
-&lt;span class=&quot;n&quot;&gt;programming&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;language&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Python&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;java&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Script&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;html&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;css&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;library&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;used&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;python&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pandas&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numpy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sklearn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;keras&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Tenserfolow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Streamlit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Django&lt;/span&gt;
-    
-    &lt;span class=&quot;n&quot;&gt;javascript&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Vue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;js&lt;/span&gt; 
-
-
-    &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;ul&gt;
+  &lt;li&gt;skill:
+    &lt;ul&gt;
+      &lt;li&gt;programming language  : Python,java Script,html,css&lt;/li&gt;
+      &lt;li&gt;library used
+        &lt;ul&gt;
+          &lt;li&gt;python : pandas,numpy,sklearn,keras,Tenserfolow,Streamlit,Django&lt;/li&gt;
+          &lt;li&gt;javascript : Vue.js&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;background knowledge
+    &lt;ul&gt;
+      &lt;li&gt;Plant Operation&lt;/li&gt;
+      &lt;li&gt;Avionic Electronics&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Project:
     &lt;ul&gt;
       &lt;li&gt;LNG power plant maxium load predict (xgboost)&lt;/li&gt;

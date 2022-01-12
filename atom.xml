@@ -4,7 +4,7 @@
  <title>Wonny Devlog</title>
  <link href="https://papa1945.github.io/atom.xml" rel="self"/>
  <link href="https://papa1945.github.io/"/>
- <updated>2022-01-12T23:30:14+09:00</updated>
+ <updated>2022-01-12T23:31:59+09:00</updated>
  <id>https://papa1945.github.io</id>
  <author>
    <name>Wonny</name>
@@ -31,11 +31,11 @@
   &lt;li&gt;vi 에디터로 실행한 bashr 파일 하단에 아래와 같이 추가 후 저장&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;language-console highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;  $&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;vi ~/.bashr  
+&lt;div class=&quot;language-console highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;    $&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;vi ~/.bashr  
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;div class=&quot;language-console highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;go&quot;&gt;LANG=&quot;ko_KR.UTF-8&quot;
-export LANG=&quot;ko_KR.UTF-8&quot;
+&lt;div class=&quot;language-console highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;go&quot;&gt;    LANG=&quot;ko_KR.UTF-8&quot;
+    export LANG=&quot;ko_KR.UTF-8&quot;
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 </content>

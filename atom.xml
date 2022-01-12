@@ -4,13 +4,42 @@
  <title>Wonny Devlog</title>
  <link href="https://papa1945.github.io/atom.xml" rel="self"/>
  <link href="https://papa1945.github.io/"/>
- <updated>2022-01-11T23:16:00+09:00</updated>
+ <updated>2022-01-12T23:30:14+09:00</updated>
  <id>https://papa1945.github.io</id>
  <author>
    <name>Wonny</name>
    <email>papa1945@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Ubuntu 한글폰트 설치 및 설정</title>
+   <link href="https://papa1945.github.io/2022/01/12/ubuntu-%ED%95%9C%EA%B8%80%ED%8F%B0%ED%8A%B8-%EB%B0%8F-%EC%84%A4%EC%A0%95"/>
+   <updated>2022-01-12T00:00:00+09:00</updated>
+   <id>https://papa1945.github.io/2022/01/12/Ubuntu-한글폰트-및-설정</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;WSL2 환경에서 gui 프로그램 실행 시 한글 폰트 및 설정이 되어 있지 않은 경우 폰트 설치 및 Local에 한글을 설정 한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;1. 모든 나눔 폰트 관련 설치&lt;/p&gt;
+
+&lt;div class=&quot;language-console highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;    $&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt-get &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;fonts-nanum&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;2. 한글폰트 관련 환경 설정&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;vi 에디터로 실행한 bashr 파일 하단에 아래와 같이 추가 후 저장&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-console highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;  $&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;vi ~/.bashr  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-console highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;go&quot;&gt;LANG=&quot;ko_KR.UTF-8&quot;
+export LANG=&quot;ko_KR.UTF-8&quot;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>개발 기록 공간의 시작</title>
